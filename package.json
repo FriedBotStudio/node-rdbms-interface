@@ -1,0 +1,25 @@
+{
+  "name": "node-rdbms-inteface",
+  "version": "0.1.0",
+  "description": "An interface library for Node JS that can be used to abstract RDBMS level SQL queries with promise based interface. ",
+  "main": "driver-interface.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusharsrivastava/node-rdbms-interface.git"
+  },
+  "keywords": [
+    "nodejs",
+    "rdbms",
+    "rdbms-interface",
+    "rdbms-promise"
+  ],
+  "author": "Tushar Srivastava <razieldecarte@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tusharsrivastava/node-rdbms-interface/issues"
+  },
+  "homepage": "https://github.com/tusharsrivastava/node-rdbms-interface#readme"
+}
